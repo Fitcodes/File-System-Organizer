@@ -67,7 +67,7 @@ function orgnfn(dirpath) {
       // writing the rest part in organize_helper function for better readibilitty
       organize_helper(dirpath, destpath);
     } else {
-      console.log("kindly enter the correct path");
+      console.log("kindly please enter the correct path");
       return;
     }
   }
